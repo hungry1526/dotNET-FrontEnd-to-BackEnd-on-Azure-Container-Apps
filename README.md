@@ -8,8 +8,6 @@ This repository contains a simple scenario built to demonstrate how ASP.NET Core
 * Azure folder - contains Azure Bicep files used for creating and configuring all the Azure resources. 
 * GitHub Actions workflow file used to deploy the app using CI/CD. 
 
-TEST HJ Hang
-
 ## What you'll learn
 
 This exercise will introduce you to a variety of concepts, with links to supporting documentation throughout the tutorial. 
